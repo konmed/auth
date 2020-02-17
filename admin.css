@@ -15,7 +15,7 @@
 		}
 		.users{
 			display: grid;
-			grid-template-columns: 1fr 1fr 1fr 1fr; 
+			grid-template-columns: 1fr 1fr 1fr 1fr;
 			grid-template-rows: 1fr;
 			grid-gap: 20px;
 
@@ -26,7 +26,7 @@
 			background: lightblue;
 			border-radius: 35px;
 			text-align: center;
-			border: 2px solid blue;	
+			border: 2px solid blue;
 		}
 		.content_img{
 			margin-top: 1.0em;
@@ -37,11 +37,11 @@
 			color: red;
 		}
 		.link_edit{
-	
+
 			font-size: 18px;
 			text-decoration: none;
 		}
-		
+
 		.gender{
 			float: left;
 		}
@@ -68,7 +68,7 @@
 	border-radius: 25px 0px 25px 0px;
 	padding: 5px;
 	background-color: #fff;
-	
+
 }
 .link_goods{
 	padding: 5px;
@@ -99,7 +99,7 @@
 }
 
 .input{
-	width: 30%;
+	width: 25%;
 	background-color: #1736b757;
 	border:2px solid grey;
 	border-radius: 5px;
